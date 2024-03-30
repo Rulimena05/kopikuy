@@ -1,0 +1,71 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Americano",
+            "size": "100 ml",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://images.pexels.com/photos/1252195/pexels-photo-1252195.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "Ayam Geprek",
+            "size": "1 Box",
+            "harga": "20.000",
+            "link": "#",
+            "foto": "https://media.istockphoto.com/id/1299771101/id/foto/makanan-tradisional-yang-disebut-ayam-geprek.jpg?s=612x612&w=0&k=20&c=Y2tkdIEfGaQy1QxfXGRyZ2m63t6A6UFoN2j6XkAcJlY="
+        },
+        {
+            "nama": "Nasi Goreng",
+            "size": "1 Box",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://images.pexels.com/photos/14072794/pexels-photo-14072794.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ]
+}
